@@ -1,7 +1,8 @@
 #!/bin/bash
 #####################################################
 # Virtual Pool 1.6.7 Patch (Strip it)               #
-# Created by CrazyGerry (agehring80)               #
+# You must be owner of the pruduct ! Do not steal ! #
+# Created by CrazyGerry (agehring80)                #
 # - Remove CD Check, Movies and Main Menu           #
 # - Remove nasty 'bypass video driver message'      #
 # - Adjust Exit textes                              #
