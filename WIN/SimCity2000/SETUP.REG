@@ -5,14 +5,14 @@ REGEDIT4
 "Company Name"="Maxis"
 
 [HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Paths]
-"Cities"="c:\\SIMCITY2000\\CITIES"
-"Data"="c:\\SIMCITY2000\\DATA"
-"Graphics"="c:\\SIMCITY2000\\BITMAPS"
-"Home"="c:\\SIMCIT~1"
-"Music"="c:\\SIMCITY2000\\SOUNDS"
-"SaveGame"="c:\\SIMCITY2000\\CITIES"
-"Scenarios"="c:\\SIMCITY2000\\SCENARIO"
-"TileSets"="c:\\SIMCITY2000\\SCURKART"
+"Cities"="c:\\Program Files (x86)\\SIMCITY2000\\CITIES"
+"Data"="c:\\Program Files (x86)\\SIMCITY2000\\DATA"
+"Graphics"="c:\\Program Files (x86)\\SIMCITY2000\\BITMAPS"
+"Home"="c:\\Program Files (x86)\\SIMCITY2000"
+"Music"="c:\\Program Files (x86)\\SIMCITY2000\\SOUNDS"
+"SaveGame"="c:\\Program Files (x86)\\SIMCITY2000\\CITIES"
+"Scenarios"="c:\\Program Files (x86)\\SIMCITY2000\\SCENARIO"
+"TileSets"="c:\\Program Files (x86)\\SIMCITY2000\\SCURKART"
 
 [HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Options]
 "AutoBudget"=dword:00000000
