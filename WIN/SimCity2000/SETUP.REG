@@ -1,0 +1,46 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Registration]
+"Mayor Name"="Max"
+"Company Name"="Maxis"
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Paths]
+"Cities"="c:\\SIMCITY2000\\CITIES"
+"Data"="c:\\SIMCITY2000\\DATA"
+"Graphics"="c:\\SIMCITY2000\\BITMAPS"
+"Home"="c:\\SIMCIT~1"
+"Music"="c:\\SIMCITY2000\\SOUNDS"
+"SaveGame"="c:\\SIMCITY2000\\CITIES"
+"Scenarios"="c:\\SIMCITY2000\\SCENARIO"
+"TileSets"="c:\\SIMCITY2000\\SCURKART"
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Options]
+"AutoBudget"=dword:00000000
+"AutoGoto"=dword:00000001
+"AutoSave"=dword:00000000
+"Disasters"=dword:00000001
+"Music"=dword:00000001
+"Sound"=dword:00000001
+"Speed"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\SCURK]
+"CycleColors"=hex:01,00,00,00
+"GridHeight"=hex:02,00,00,00
+"GridWidth"=hex:02,00,00,00
+"ShowClipRegion"=hex:00,00,00,00
+"ShowDrawGrid"=hex:00,00,00,00
+"SnapToGrid"=hex:00,00,00,00
+"Sound"=hex:01,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Version]
+"SCURK"=dword:00000100
+"SimCity 2000"=dword:00000100
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Windows]
+"Color Check"=dword:00000000
+"SimCity 2000"="8 1"
+"Last Color Depth"=dword:00000020
+
+[HKEY_CURRENT_USER\SOFTWARE\Maxis\SimCity 2000\Localize]
+"Language"="USA"
+
