@@ -10,11 +10,11 @@ But it runs very laggy on slower machines.
 ## Get the stripped version running smoothly.
 
 1. Create the following structure:
-d:\VPOOL (or something else)
-	DOSBOX-St		(folder with downloaded DosBoxStaging)
-	VPOOL			(folder with VPOOL files from CD and stripped POOL.EXE and create POOL.CFG here !)
-	VPOOL.bat
-	VPOOL.conf
+- d:\VPOOL
+  - DOSBOX-St        (folder with downloaded DosBoxStaging)
+  - VPOOL          (folder with VPOOL files from CD and stripped POOL.EXE; create POOL.CFG here)
+  - VPOOL.bat
+  - VPOOL.conf
 ---
 2. POOL.CFG (in VPOOL folder where the CD files are located) contains:
 ```
