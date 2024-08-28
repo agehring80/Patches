@@ -1,8 +1,10 @@
 # Virtual Pool Setup
 
-There is a mouse issue in DosBox an VPOOL. With DosBox-Staging you can setup a serial mouse. In the full CD version movies causes a crash in DosBox & DosBoxStaging (at the time of writing this).
+There is a mouse issue in DosBox an VPOOL. If you setup a serial mouse, there is no issue. With DosBox-Staging you can setup a serial mouse. In the full CD version movies causes a crash in DosBox & DosBoxStaging (at the time of writing this).
 
 DosBox-X can run the full version and also supports a serial mouse. But it runs very laggy on slower machines.
+
+With some changes in the config, networking runs very good (Don't be rude and use the Cheat Patch then ;-)).
 
 ## Get the stripped version running smoothly.
 
