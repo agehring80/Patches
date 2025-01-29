@@ -1,0 +1,20 @@
+[fs-uae]
+accelerator_memory = 262144
+amiga_model = A1200/020
+chip_memory = 8192
+cpu = 68020
+floppy_drive_volume_empty = 0
+graphics_card = uaegfx-z3
+graphics_memory = 131072
+hard_drive_0 = ./WinUAE/AGS_UAE/Workbench.hdf
+hard_drive_1 = ./WinUAE/AGS_UAE/AGS_Drive.hdf
+hard_drive_2 = ./WinUAE/AGS_UAE/Games.hdf
+hard_drive_3 = ./WinUAE/AGS_UAE/SHARED
+hard_drive_4 = ./WinUAE/AGS_UAE/Work.hdf
+jit_compiler = 1
+kickstart_file = Kickstart-v3.1-rev-40.68-1993-Commodore-A1200.rom
+uae_cpu_speed = max
+uae_fpu_model = 68882
+window_height = 1080
+window_width = 1920
+zorro_iii_memory = 1048576
